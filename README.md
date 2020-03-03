@@ -13,3 +13,12 @@ Other Topics
 	Resilience
 	Scaling and Parallel Processing
 	
+	
+## Spring Session
+https://docs.spring.io/spring-session/docs/current/reference/html5/#introduction
+
+## Spring Cloud
+https://www.youtube.com/watch?v=SFDYdslOvu8
+https://www.linkedin.com/learning/spring-spring-cloud
+https://spring.io/blog/2014/06/03/introducing-spring-cloud
+	
